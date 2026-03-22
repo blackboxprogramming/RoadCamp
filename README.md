@@ -1,3 +1,13 @@
+# RoadCamp — BlackRoad education platform. Learn math, programming, and CS for free.
+
+> Part of the [BlackRoad OS](https://blackroad.io) sovereign technology ecosystem.
+> Licensed under [BlackRoad OS, Inc. Proprietary License](./LICENSE).
+
+[![BlackRoad](https://img.shields.io/badge/BlackRoad-OS-black?style=flat-square)](https://blackroad.io)
+[![License](https://img.shields.io/badge/License-Proprietary-black?style=flat-square)](./LICENSE)
+
+---
+
 [![freeCodeCamp Social Banner](https://cdn.freecodecamp.org/platform/universal/fcc_banner_new.png)](https://www.freecodecamp.org/)
 
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
